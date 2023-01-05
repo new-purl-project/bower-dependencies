@@ -1,5 +1,5 @@
 {
-    "name": "debricked",
+    "name": "debricked-1",
     "version": "3.3.0",
     "main": "deb.js",
     "dependencies": {
